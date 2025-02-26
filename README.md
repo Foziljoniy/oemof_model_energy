@@ -14,7 +14,7 @@ Installation
 
 To run this model, ensure you have Python installed and set up a virtual environment. Then, install the required dependencies:
 
-git clone https://github.com/your-username/oemof-research-model.git
+git clone https://github.com/Foziljoniy/oemof_model_energy/tree/main
 cd oemof-research-model
 pip install -r requirements.txt
 
