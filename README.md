@@ -36,17 +36,6 @@ Install them via:
 
 pip install oemof pandas numpy matplotlib
 
-Contribution
-
-Feel free to contribute by submitting issues, feature requests, or pull requests.
-License
-
-This project is licensed under the MIT License.
-
-Would you like any modifications or additions, such as citations, references, or dataset descriptions?
-You said:
-no, I have done project and I uploaded to github and now create read.me file for me https://github.com/oemof/oemof-visio link and these are files in  prof energy.ipynb and oemof_model.ipynb, thereese are file mainly my prof enrgy and  oemof_model.ipynb is main one, also for running oemof model write links and main requiresemsts like cbc and other. For oeomof model requirements use this link https://github.com/oemof/oemof-solph also glpk
-
 This repository contains an OEMOF-based energy system model, designed for analyzing and optimizing Uzbekistan's energy sector. The model focuses on renewable energy integration and investment planning using OEMOF-Solph.
 Repository Structure
 
