@@ -45,19 +45,14 @@ This project is licensed under the MIT License.
 
 Would you like any modifications or additions, such as citations, references, or dataset descriptions?
 You said:
-no, I have done project and I uploaded to github and now create read.me file for me https://github.com/oemof/oemof-visio link and these are files in a.ipynb and prof energy.ipynb and yntitled 7ipnb, thereese are file mainly my prof enrgy and untitled 7 is main one, also for running oemof model write links and main requiresemsts like cbc and other. For oeomof model requirements use this link https://github.com/oemof/oemof-solph also glpk
-ChatGPT said:
-
-Here's your README.md file for your GitHub repository:
-OEMOF Model for Energy System Analysis
-Overview
+no, I have done project and I uploaded to github and now create read.me file for me https://github.com/oemof/oemof-visio link and these are files in  prof energy.ipynb and oemof_model.ipynb, thereese are file mainly my prof enrgy and  oemof_model.ipynb is main one, also for running oemof model write links and main requiresemsts like cbc and other. For oeomof model requirements use this link https://github.com/oemof/oemof-solph also glpk
 
 This repository contains an OEMOF-based energy system model, designed for analyzing and optimizing Uzbekistan's energy sector. The model focuses on renewable energy integration and investment planning using OEMOF-Solph.
 Repository Structure
 
-    a.ipynb – Supporting Jupyter Notebook
+    
     prof_energy_my.ipynb – Secondary energy model analysis
-    Untitled7.ipynb – Main Jupyter Notebook for the energy model
+    oemof_model.ipynb – Main Jupyter Notebook for the energy model
     Energy data files (.xlsx, .csv, .pdf) – Input data for model execution
 
 Installation & Requirements
@@ -66,7 +61,7 @@ Before running the model, install the necessary dependencies:
 
     Clone the repository:
 
-git clone https://github.com/your-username/oemof_model_energy.git
+git clone https://github.com/Foziljoniy/oemof_model_energy.git
 cd oemof_model_energy
 
 Set up a Python environment (recommended):
